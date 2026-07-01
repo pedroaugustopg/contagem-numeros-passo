@@ -1,13 +1,15 @@
+# Contagem de números
+
 Programa que realiza contagens crescentes ou decrescentes com base em valores de início, fim e 
 passo informados pelo usuário.
 
-⚙️ Funcionalidades:
+## ⚙️ Funcionalidades
 
 - Contagens pré-definidas e personalizadas
 - Tratamento para passos iguais a zero ou negativos
 - Simulação de intervalo entre as contagens
 
-🎯 Objetivos de aprendizagem:
+## 🎯 Objetivos de aprendizagem
 
 - Desenvolvimento de métodos reutilizáveis
 - Utilização de parâmetros e sobrecarga de métodos
@@ -17,12 +19,12 @@ passo informados pelo usuário.
 - Entrada e saída de dados pelo console
 - Organização do código em múltiplas classes
 
-🛠️ Tecnologias utilizadas
+## 🛠️ Tecnologias utilizadas
 
 - Java
 - JDK 11 ou superior
 
-🚀 Como executar
+## 🚀 Como executar
 
 - Clone este repositório
 - Abra o projeto em sua IDE Java de preferência
