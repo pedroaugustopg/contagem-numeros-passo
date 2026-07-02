@@ -44,7 +44,6 @@ public class Contador {
                 }
             }
         }
-
         System.out.println("FIM!");
     }
 }
